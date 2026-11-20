@@ -6,20 +6,11 @@
 - 🔬 **Focus Areas:** Computer Vision (ViT, Swin, Stable Diffusion + LoRA), Multimodal RAG, Agentic Workflows (MCP), & Clinical ML
 - 📄 **Research:** Co-author in Deep Learning for Crime Scene Object Detection (*TURCOMAT*, 2024)
 - 🎯 **Status:** Based in Cottbus, Germany — Open to AI/ML Engineering & Full-Stack AI roles
-- 📫 **Reach me:** [mettusur@b-tu.de](mailto:mettusur@b-tu.de) | [mettusurendra02@gmail.com](mailto:mettusurendra02@gmail.com)
+- 📫 **Reach me:**  [mettusurendra02@gmail.com](mailto:mettusurendra02@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-surendrareddy)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/MettuSurendraReddy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mettusur@b-tu.de)
-
----
-
-### 🚀 Key Projects
-
-- **Cloud-Native Job Application Tracker** — Event-driven pipeline (`Gmail API`, `Google Pub/Sub`) extracting structured job updates via `Gemini`/`Groq` + `Pydantic` into `Google Sheets` & `Neo4j`, exposed via a containerized `FastMCP` server (`45 passing tests`).
-- **Multimodal RAG Assistant for AI Governance & Security** — Hybrid retrieval (`BM25` + dense embeddings + exact-ID routing) across 648 pages (1,683 chunks + vision figure captions) achieving **18/19 top-5 recall** & **0.82 MRR**, deployed on `FastAPI`, `Docker` & `HF Spaces`.
-- **[Fake News Detector](https://github.com/MettuSurendraReddy/fake-news-detector)** — Fine-tuned `RoBERTa` transformer (`PyTorch`, `Hugging Face`) on 10,240 LIAR samples (**0.79 F1**), addressing class imbalance with dual `Flask` and `Gradio` interfaces.
-- **[Smart Healthcare Assistant](https://github.com/MettuSurendraReddy/Smart-Healthcare-Assistant)** — End-to-end heart disease prediction app (`XGBoost`, `Scikit-Learn`, `Flask`, `Render`) achieving **90% disease recall** & **0.879 ROC-AUC** after resolving 723 duplicate-row data leakage ([Live Demo](https://smart-healthcare-assistant-vszt.onrender.com)).
 
 ---
 
