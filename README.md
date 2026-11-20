@@ -5,7 +5,7 @@
 - 💼 **Experience:** Full Stack & AI Engineer Intern @ **Machine Learning Thrive** (Mainz, Germany) • AI Intern @ **Leap Robots** (Hyderabad, India)
 - 🔬 **Focus Areas:** Computer Vision (ViT, Swin, Stable Diffusion + LoRA), Multimodal RAG, Agentic Workflows (MCP), & Clinical ML
 - 📄 **Research:** Co-author in Deep Learning for Crime Scene Object Detection (*TURCOMAT*, 2024)
-- 🎯 **Status:** Based in Cottbus, Germany — Open to AI/ML Engineering & Full-Stack AI roles
+- 🎯 **Status:** Based in Cottbus, Germany - Open to AI/ML Engineering & Full-Stack AI roles
 - 📫 **Reach me:**  [mettusurendra02@gmail.com](mailto:mettusurendra02@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-surendrareddy)
