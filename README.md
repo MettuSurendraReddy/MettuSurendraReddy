@@ -1,11 +1,49 @@
-# 💫 About Me:
-🎓 MSc Artificial Intelligence student at BTU Cottbus, Germany<br>🤖 AI & Machine Learning Engineer — NLP, LLMs, Deep Learning & Predictive Modeling<br>🔬 Published researcher in Deep Learning for Forensic Image Analysis (2024)<br>🚀 Built & deployed end-to-end ML systems using Flask, Scikit-Learn, PyTorch & TensorFlow<br>🌍 Based in Cottbus, Germany | Open to Internship & Werkstudent roles<br>💡 Passionate about RAG, Transformers, and solving real-world problems with AI<br>📫 Reach me at mettusurendra02@gmail.com
+# Hi, I'm Surendra Reddy Mettu 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/-surendrareddy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mettusurendra02@gmail.com)
+**Full Stack & AI Engineer** | M.Sc. Artificial Intelligence @ BTU Cottbus-Senftenberg, Germany
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- 💼 **Experience:** Full Stack & AI Engineer Intern @ **Machine Learning Thrive** (Mainz, Germany) • AI Intern @ **Leap Robots** (Hyderabad, India)
+- 🔬 **Focus Areas:** Computer Vision (ViT, Swin, Stable Diffusion + LoRA), Multimodal RAG, Agentic Workflows (MCP), & Clinical ML
+- 📄 **Research:** Co-author in Deep Learning for Crime Scene Object Detection (*TURCOMAT*, 2024)
+- 🎯 **Status:** Based in Cottbus, Germany — Open to AI/ML Engineering & Full-Stack AI roles
+- 📫 **Reach me:** [mettusur@b-tu.de](mailto:mettusur@b-tu.de) | [mettusurendra02@gmail.com](mailto:mettusurendra02@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-surendrareddy)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/MettuSurendraReddy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mettusur@b-tu.de)
 
 ---
-[![](https://komarev.com/ghpvc/?username=MettuSurendraReddy&color=blueviolet)](https://visitcount.itsvg.in)
+
+### 🚀 Key Projects
+
+- **Cloud-Native Job Application Tracker** — Event-driven pipeline (`Gmail API`, `Google Pub/Sub`) extracting structured job updates via `Gemini`/`Groq` + `Pydantic` into `Google Sheets` & `Neo4j`, exposed via a containerized `FastMCP` server (`45 passing tests`).
+- **Multimodal RAG Assistant for AI Governance & Security** — Hybrid retrieval (`BM25` + dense embeddings + exact-ID routing) across 648 pages (1,683 chunks + vision figure captions) achieving **18/19 top-5 recall** & **0.82 MRR**, deployed on `FastAPI`, `Docker` & `HF Spaces`.
+- **[Fake News Detector](https://github.com/MettuSurendraReddy/fake-news-detector)** — Fine-tuned `RoBERTa` transformer (`PyTorch`, `Hugging Face`) on 10,240 LIAR samples (**0.79 F1**), addressing class imbalance with dual `Flask` and `Gradio` interfaces.
+- **[Smart Healthcare Assistant](https://github.com/MettuSurendraReddy/Smart-Healthcare-Assistant)** — End-to-end heart disease prediction app (`XGBoost`, `Scikit-Learn`, `Flask`, `Render`) achieving **90% disease recall** & **0.879 ROC-AUC** after resolving 723 duplicate-row data leakage ([Live Demo](https://smart-healthcare-assistant-vszt.onrender.com)).
+
+---
+
+### 💻 Tech Stack
+
+**AI, Vision & GenAI**  
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Backend, Cloud & MLOps**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+![](https://komarev.com/ghpvc/?username=MettuSurendraReddy&color=004B49&style=flat-square)
